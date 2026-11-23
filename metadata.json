@@ -1,0 +1,6 @@
+{
+  "name": "REA Workbench — Reverse Engineer Anything",
+  "description": "Interactive local workbench and command explorer powered by morluto/rea (rea-agents) for static binary, JavaScript/Electron, and release exposure reverse engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
